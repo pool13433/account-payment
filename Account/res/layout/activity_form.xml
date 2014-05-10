@@ -44,7 +44,7 @@
         android:padding="15dp" >
 
         <TextView
-            android:id="@+id/textView1"
+            android:id="@+id/txt_date"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Name: " />
@@ -66,7 +66,7 @@
         android:padding="15dp" >
 
         <TextView
-            android:id="@+id/textView2"
+            android:id="@+id/txt_result_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Detail: " />
@@ -86,7 +86,7 @@
         android:padding="15dp" >
 
         <TextView
-            android:id="@+id/textView4"
+            android:id="@+id/txt_result_detail"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Money: " />
