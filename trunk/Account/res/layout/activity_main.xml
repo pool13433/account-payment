@@ -7,7 +7,7 @@
     android:padding="16dp" >
 
     <TextView
-        android1:id="@+id/textView1"
+        android1:id="@+id/txt_date"
         android1:layout_width="match_parent"
         android1:layout_height="wrap_content"
         android1:text="Menu"
